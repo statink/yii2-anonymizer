@@ -20,7 +20,7 @@
   },
   autoload: {
     "psr-4": {
-      "statink\\yii2\\ipBadge\\": "src",
+      "statink\\yii2\\anonymizer\\": "src",
     },
   },
   authors: [
@@ -39,8 +39,8 @@
       url: "https://asset-packagist.org",
     },
     {
-      type: "vcs",
-      url: "https://github.com/statink/yii2-sillyname.git",
-    },
+      "type": "composer",
+      "url": "https://satis.stat.ink/",
+    }
   ],
 }

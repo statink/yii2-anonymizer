@@ -36,8 +36,8 @@
             "url": "https://asset-packagist.org"
         },
         {
-            "type": "vcs",
-            "url": "https://github.com/statink/yii2-sillyname.git"
+            "type": "composer",
+            "url": "https://satis.stat.ink/"
         }
     ]
 }
