@@ -12,4 +12,5 @@
 /tests/_support/_generated
 /vendor/
 Thumbs.db
+composer.lock
 nbproject
