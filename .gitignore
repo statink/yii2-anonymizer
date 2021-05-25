@@ -14,3 +14,4 @@
 Thumbs.db
 composer.lock
 nbproject
+package-lock.json
